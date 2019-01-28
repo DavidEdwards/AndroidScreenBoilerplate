@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Screen Utils</string>
+
+    <string name="isPhone">Is Phone: %1$s</string>
+    <string name="isTablet">Is Tablet: %1$s</string>
+    <string name="isTV">Is TV: %1$s</string>
+
+    <string name="isSmall">Is Small: %1$s</string>
+    <string name="isLarge">Is Large: %1$s</string>
+</resources>
